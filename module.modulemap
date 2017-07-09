@@ -1,5 +1,5 @@
 module SwiftClibxml2 [system] {
-    header "Sources/libxml2.h"
+    header "Sources/SwiftClibxml2/libxml2.h"
     link "xml2"
     export *
 }
