@@ -2,5 +2,4 @@ module SwiftClibxml2 [system] {
     header "Sources/libxml2.h"
     link "xml2"
     export *
-    module * { export * }
 }
